@@ -89,7 +89,7 @@ const DisplayWeather = () => {
          console.error(e)
       }
    }
-   const debouncedFetchSuggestions = debounce(fetchSuggestions, 500); // Задержка 500 мс
+   const debouncedFetchSuggestions = debounce(fetchSuggestions, 500); 
 
    const handleSearch = async () => {
       if (inputCity.trim()=== '') return;
