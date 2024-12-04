@@ -1,3 +1,3 @@
-# I used: React, Typescript, React-icons, axios, Tailwindcss, gh-pages 
+# I used: React, Typescript, OpenWeatherApi, React-icons, axios, Tailwindcss, gh-pages
 
 # Enjoy!
